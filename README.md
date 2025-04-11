@@ -16,7 +16,7 @@
   "codeWith": ["C++", "Java", "Python", "C#", "JavaScript", "HTML", "CSS"],
   "operatingSystems": ["macOS", "Windows"],
   "lifePhilosophy": "Build things that make sense before making them fancy.",
-  "littleSecret": “Wrestling with tough bugs is painful, but victory is sweet.”
+  "littleSecret": "Wrestling with tough bugs is painful, but victory is sweet."
 }
 ```
 <p align="center">
