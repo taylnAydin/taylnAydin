@@ -11,13 +11,12 @@
   "location": "Istanbul, Turkey",
   "university": "Doğuş University",
   "degree": "Computer Engineering",
-  "aboutMe": "I’m a curious and hands-on computer engineering student who learns by building real-world projects. I focus on backend and mobile development, and I believe clean logic beats complexity.",
   "interests": ["Backend", "Frontend", "Desktop Apps", "Machine Learning", "Mobile Apps"],
   "currentlyLearning": ["Flutter", "AWS", "Docker", "Kubernetes"],
   "codeWith": ["C++", "Java", "Python", "C#", "JavaScript", "HTML", "CSS"],
   "operatingSystems": ["macOS", "Windows"],
   "lifePhilosophy": "Build things that make sense before making them fancy.",
-  "littleSecret": "I enjoy wrestling with stubborn problems because solving them brings the most satisfying feeling."
+  "littleSecret": “Wrestling with tough bugs is painful, but victory is sweet.”
 }
 ```
 <p align="center">
