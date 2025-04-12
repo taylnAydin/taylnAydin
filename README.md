@@ -19,12 +19,18 @@
   "littleSecret": "Wrestling with tough bugs is painful, but victory is sweet."
 }
 ```
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20" />
- Hi! I'm <strong>Taylan</strong>, a 21-year-old <strong>computer engineering</strong> student based in Istanbul.  
-  I care about <strong>clean code principles</strong> and writing <strong>optimized</strong>, <strong>maintainable</strong> solutions.  
-  Currently, I’m focused on <strong>backend development</strong> and <strong>mobile applications</strong>, improving myself through hands-on projects.  
- I also aim to deepen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong> to build <strong>well-engineered and scalable systems</strong> that can handle real-world complexity, <strong>distributed systems</strong>, and <strong>performance optimization</strong>. <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px">
+<div align="center">
+  <div style="max-width: 800px; text-align: left;">
+    <p>
+      <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20" style="vertical-align: middle;" />
+      Hi! I'm <strong>Taylan</strong>, a 21-year-old <strong>computer engineering</strong> student based in Istanbul.  
+      I care about <strong>clean code principles</strong> and writing <strong>optimized</strong>, <strong>maintainable</strong> solutions.  
+      Currently, I’m focused on <strong>backend development</strong> and <strong>mobile applications</strong>, improving myself through hands-on projects.  
+      I also aim to deepen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong> to build <strong>well-engineered and scalable systems</strong> that can handle real-world complexity, <strong>distributed systems</strong>, and <strong>performance optimization</strong>.  
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" style="vertical-align: middle;" />
+    </p>
+  </div>
+</div>
 
 <h2 align="center">Skills & Tools</h2>
 
