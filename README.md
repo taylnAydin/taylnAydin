@@ -44,9 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylnAydin&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=taylnAydin&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="GitHub Streak"/>
-</div>
+
 
   ![snake gif](https://github.com/taylnAydin/taylnAydin/blob/output/github-snake-dark.svg)
 
