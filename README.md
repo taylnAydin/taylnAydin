@@ -20,7 +20,8 @@
 }
 ```
 <p align="center">
-  👋 Hi! I'm <strong>Taylan</strong>, a 21-year-old <strong>computer engineering</strong> student based in Istanbul.  
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+ Hi! I'm <strong>Taylan</strong>, a 21-year-old <strong>computer engineering</strong> student based in Istanbul.  
   I care about <strong>clean code principles</strong> and writing <strong>optimized</strong>, <strong>maintainable</strong> solutions.  
   Currently, I’m focused on <strong>backend development</strong> and <strong>mobile applications</strong>, improving myself through hands-on projects.  
   I also aim to deepen my understanding of <strong>algorithms</strong> and <strong>data structures</strong> to build <strong>well-engineered and scalable systems</strong>.
