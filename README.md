@@ -40,12 +40,12 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taylnAydin&show_icons=true&theme=tokyonight" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylnAydin&layout=compact&theme=tokyonight" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taylnAydin&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylnAydin&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=taylnAydin&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=taylnAydin&theme=tokyonight&hide_border=false" width="75%" height="330px" alt="GitHub Streak"/>
 </div>
 
   ![snake gif](https://github.com/taylnAydin/taylnAydin/blob/output/github-snake-dark.svg)
