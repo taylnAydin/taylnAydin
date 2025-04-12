@@ -74,7 +74,7 @@
   <a href="https://github.com/taylnAydin">
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/taylnayd/">
+  <a href="https://leetcode.com/u/taylnAydin/">
     <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
