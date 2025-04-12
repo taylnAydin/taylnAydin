@@ -24,7 +24,7 @@
  Hi! I'm <strong>Taylan</strong>, a 21-year-old <strong>computer engineering</strong> student based in Istanbul.  
   I care about <strong>clean code principles</strong> and writing <strong>optimized</strong>, <strong>maintainable</strong> solutions.  
   Currently, I’m focused on <strong>backend development</strong> and <strong>mobile applications</strong>, improving myself through hands-on projects.  
- I also aim to deepen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong> to build <strong>well-engineered and scalable systems</strong>.
+   I also aim to deepen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong> to build <strong>well-engineered and scalable systems</strong> that can handle real-world complexity and growth. <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> 
 </p>
 
 <h2 align="center">Skills & Tools</h2>
