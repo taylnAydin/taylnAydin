@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hi👋+My+name+is+Taylan+Kemal+Aydın.;Computer+Engineering+Student;Backend+%7C+Mobile+Developer;Think+it.+Build+it.+Optimize+it." alt="Typing SVG" />
-</p>
+<h2 align="center"> Taylan Kemal Aydın</h2>
+<h4 align="center"> Computer Engineering Student |  Backend &  Mobile Developer</h4>
+<p align="center"> Think it. Build it. Optimize it.   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</p>
 
 <h2 align="center">About Me </h2>
 
