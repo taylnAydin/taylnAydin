@@ -7,7 +7,7 @@
 ```json
 {
   "name": "Taylan Kemal Aydın",
-  "age": 21,
+  "age": 22,
   "location": "Istanbul, Turkey",
   "university": "Doğuş University",
   "degree": "Computer Engineering",
