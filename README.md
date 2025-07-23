@@ -11,9 +11,9 @@
   "location": "Istanbul, Turkey",
   "university": "Doğuş University",
   "degree": "Computer Engineering",
-  "interests": ["Backend", "Frontend", "Desktop Apps", "Machine Learning", "Mobile Apps"],
-  "currentlyLearning": ["Flutter", "AWS", "Docker", "Kubernetes"],
-  "codeWith": ["C++", "Java", "Python", "C#", "JavaScript", "HTML", "CSS"],
+  "interests": ["Backend", "Desktop Apps", "Machine Learning", "Mobile Apps"],
+  "currentlyLearning": ["AWS", "Docker", "Kubernetes"],
+  "codeWith": ["C++", "Java", "Python", "C#", "Dart", "JavaScript", "HTML", "CSS"],
   "operatingSystems": ["macOS", "Windows"],
   "lifePhilosophy": "Build things that make sense before making them fancy.",
   "littleSecret": "Wrestling with tough bugs is painful, but victory is sweet."
@@ -29,13 +29,11 @@ As a developer, I hold a structured coding mindset and philosophy: good code sho
 <h2 align="center">Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,javascript,html,css,nodejs,express,react,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,javascript,html,css,dart,flutter,react&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,vscode,git,github,postman,stackoverflow,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mysql,sqlite,mongodb,git,github,vscode,postman,bootstrap&theme=dark" />
 </p>
-
-
 
 <h2 align="center">GitHub Stats</h2>
 
