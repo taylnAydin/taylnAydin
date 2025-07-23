@@ -55,8 +55,9 @@ As a developer, I hold a structured coding mindset and philosophy: good code sho
 
 <h2 align="center">Total Visitors</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/taylnAydin/count.svg" alt="Visitor Count" width="350"/>
+  <img src="https://komarev.com/ghpvc/?username=taylnAydin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
  <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 <br><br>
