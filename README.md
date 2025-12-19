@@ -1,5 +1,5 @@
 <h2 align="center"> Taylan Kemal Aydın</h2>
-<h4 align="center"> Computer Engineering Student</h4>
+<h4 align="center">Computer Engineering Student | Passionate about Backend & Systems</h4>
 <p align="center"> Think it. Build it. Optimize it.   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</p>
 
 <h2 align="center">About Me </h2>
@@ -20,8 +20,21 @@
 }
 ```
 <p>
-Hi!<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="20" style="vertical-align: middle; margin-right: 6px;" /> I'm <strong>Taylan</strong>, a <strong> computer engineering</strong> student based in Istanbul. I care about <strong>clean code principles</strong> and writing <strong>optimized</strong>, <strong>maintainable</strong> solutions. Currently, I’m focused on <strong>backend development</strong> and <strong>mobile applications</strong>, improving myself through hands-on projects. I also aim to deepen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong> to build <strong>well-engineered and scalable systems</strong> that can handle real-world complexity, <strong>distributed systems</strong>, <strong>performance optimization</strong>, <strong>reliability</strong>, and <strong>efficiency</strong>.
-As a developer, I hold a structured coding mindset and philosophy: good code should feel <strong>simple</strong>.    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" style="vertical-align: middle; margin-left: 10px;" /> </p>
+Hi! 👋 I'm <strong>Taylan</strong>, a <strong>Computer Engineering</strong> student based in Istanbul.
+I care deeply about <strong>clean code</strong> and building <strong>optimized</strong>, <strong>maintainable</strong> solutions.
+My main focus is on <strong>backend development</strong> and <strong>mobile applications</strong>, where I learn by building real projects.
+</p>
+
+<p>
+I aim to strengthen my understanding of <strong>algorithms</strong>, <strong>data structures</strong>, and <strong>system design</strong>
+to create <strong>scalable</strong> and <strong>reliable</strong> systems that handle real-world complexity.
+</p>
+
+<p>
+I believe good code should feel <strong>simple</strong> — even when the problem is not.
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+width="20px" style="vertical-align: middle; margin-left: 8px;" />
+</p>
 
 
 
