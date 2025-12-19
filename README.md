@@ -1,5 +1,5 @@
 <h2 align="center"> Taylan Kemal Aydın</h2>
-<h4 align="center"> Computer Engineering Student |  Backend &  Mobile Developer</h4>
+<h4 align="center"> Computer Engineering Student</h4>
 <p align="center"> Think it. Build it. Optimize it.   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</p>
 
 <h2 align="center">About Me </h2>
