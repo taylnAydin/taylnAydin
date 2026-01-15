@@ -51,8 +51,8 @@ width="20px" style="vertical-align: middle; margin-left: 8px;" />
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taylnAydin&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylnAydin&layout=compact&theme=tokyonight" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=taylnAydin&show_icons=true&theme=merko&border_color=599200&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylnAydin&theme=merko&layout=compact&border_color=599200&hide_border=true&langs_count=6" />
 </p>
 
 
